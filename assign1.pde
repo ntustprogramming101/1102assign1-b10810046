@@ -39,7 +39,7 @@ void setup() {
   //讓線段第二座標開始移動的位置
   laserStart = robotX+25-40 ;
   //士兵xy
-  soldierX = random(0, width);
+  soldierX = 0;
   soldierY = gridHeight*floor(random(3, 6));
 }
 
