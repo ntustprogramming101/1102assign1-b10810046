@@ -53,7 +53,7 @@ void draw() {
   fill(253, 184, 19);
   stroke(255, 255, 0);
   strokeWeight(5);
-  ellipse(width-50, 50, 120, 120);
+  ellipse(width-50, 50, 125, 125);
   //草地
   noStroke();
   fill(124, 204, 25);
